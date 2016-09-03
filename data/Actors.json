@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_1","characterIndex":2,"characterName":"People1","classId":1,"equips":[1,1,2,3,0],"faceIndex":2,"faceName":"People1","traits":[],"initialLevel":1,"maxLevel":99,"name":"青年","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Actor1_8","characterIndex":0,"characterName":"Nature","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Nature","traits":[],"initialLevel":1,"maxLevel":99,"name":"犬","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Actor3_8","characterIndex":2,"characterName":"Nature","classId":2,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"Nature","traits":[],"initialLevel":1,"maxLevel":99,"name":"鶏","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Actor2_7","characterIndex":3,"characterName":"Nature","classId":2,"equips":[0,0,0,0,0],"faceIndex":3,"faceName":"Nature","traits":[],"initialLevel":1,"maxLevel":99,"name":"馬","nickname":"","note":"","profile":""}
+]
